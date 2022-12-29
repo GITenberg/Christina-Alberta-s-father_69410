@@ -1,5 +1,8 @@
 _repo: Christina-Alberta-s-father_69410
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69410-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Christina_Alberta%27s_Father'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69410#Christina-Alberta-s-father
 gutenberg_issued: '2022-11-23'
 identifiers:
   gutenberg: '69410'
